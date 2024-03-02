@@ -2,7 +2,7 @@
 
 <h3>Ссылка проекта на github - </h3>
 
-https://github.com/MGKrupkina/karty-podskazhut.git
+https://github.com/NazarovaMary/karty-podskazhut.git
 
 <h3>Ссылки на файлы проекта:</h3>
 
