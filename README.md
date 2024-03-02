@@ -21,5 +21,5 @@ html-страница сайта (<a href="https://github.com/NazarovaMary/karty
 
 <h3><a href="https://www.figma.com/file/GWuqAvaONsjQPXz53n9d0L/%235-Карты-подскажут/duplicate?type=design&node-id=0-1&mode=design" target="_blank">Макет (перейти по ссылке)</a></h3>
 
-![Темная](https://github.com/MGKrupkina/karty-podskazhut/assets/145542673/3df13e50-040c-4268-9f36-af0044250480)
-![Светлая](https://github.com/MGKrupkina/karty-podskazhut/assets/145542673/3bd2f4fb-7401-4319-a5af-cdef8d337ebb)
+![Темная](https://github.com/NazarovaMary/karty-podskazhut/assets/145542673/3df13e50-040c-4268-9f36-af0044250480)
+![Светлая](https://github.com/NazarovaMary/karty-podskazhut/assets/145542673/3bd2f4fb-7401-4319-a5af-cdef8d337ebb)
